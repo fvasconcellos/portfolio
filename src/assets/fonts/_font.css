@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Fira Code';
+  src: url('src/assets/fonts/FiraCode-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Press Start 2P';
+  src: url('src/assets/fonts/PressStart2P-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
