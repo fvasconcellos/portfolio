@@ -1,0 +1,60 @@
+.skills {
+  background-color: #3A4042;
+  color: white;
+  height: 500px;
+  font-family: 'Press Start 2P';
+}
+ h1 {
+  text-align: center;
+  font-size: 40px;
+  line-height: normal;
+
+  padding-top: 50px;
+  padding-bottom: 62px;
+ }
+
+.wrapper {
+  font-size: 25px;
+  line-height: normal;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  width: 430px;
+  height: 90px;
+  padding-left: 102px;
+}
+
+img {
+  order: -1;
+  margin-right: 25px;
+}
+
+.rectangle {
+  display: flex;
+  width: 320px;
+  height: 30px;
+  border: 5px solid #000;
+  background: #FFF;
+  align-self: flex-end;
+  margin-top: 21px;
+}
+
+.development {
+  width: 30px;
+  height: 30px;
+  background: #7C5E99;
+}
+
+.development_HTML, .development_CSS {
+  width: 120px;
+  height: 30px;
+  background: #7C5E99;
+}
+
+.bloco {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 38px;
+}
